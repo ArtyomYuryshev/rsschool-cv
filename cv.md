@@ -16,9 +16,9 @@
 - Experienced in test documentation creation.
 
 ---
-###Experience
+### Experience
 **Software Testing Engineer**
-EPAM
+__EPAM__
 _02.2022 - present_
 - Involved in the testing projects of different levels of complexity with Scrum and Kanban
 methodologies.
@@ -26,24 +26,23 @@ methodologies.
 specialist.
 - Interviewed new engineers for the project.
 
-#QA Engineer
-**a1qa**
+**QA Engineer**
+__a1qa__
 _08/2018 - 07/2021_
 - Taken part in testing activities like functional testing for web and mobile application, test
 documentation creation and quality reporting.
 - Onboarding and supervising new engineers on several projects.
 
 ---
-###Languages
+### Languages
 - English: Intermediate
-
 - Russian: Native
 
 ---
-###Skills
+### Skills
 - **Work experience with:** Jira, Confluence, TestRail, Zephyr, Trello, Fiddler, Charles, DBeaver, VirtualBox, Postman, WAVE.
 - **Familiar with:** GitLab, BurpSuite, Ubuntu, JMeter.
 ---
-###Education
+### Education
 - Belarusian-Russian University (2013 - 2017)
 - Bachelor degree, Biotechnical Systems and Technologies
