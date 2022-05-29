@@ -41,10 +41,9 @@ documentation creation and quality reporting.
 ---
 ### Skills
 - **Work experience with:** Jira, Confluence, TestRail, Zephyr, Trello, Fiddler, Charles, DBeaver, VirtualBox, Postman, WAVE.
-- **Familiar with:** GitLab, BurpSuite, Ubuntu, JMeter.
 
 ---
 ### Education
-- **Name of the Education Establishment:** Belarusian-Russian University (2013 - 2017)
+- **Name of the Education Establishment:** Belarusian-Russian University
 - **Degree (diploma):** Bachelor degree
 - **Specialty:** Biotechnical Systems and Technologies
