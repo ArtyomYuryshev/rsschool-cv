@@ -41,7 +41,7 @@ documentation creation and quality reporting.
 ---
 ### Skills
 - **Work experience with:** Jira, Confluence, TestRail, Zephyr, Trello, Fiddler, Charles, DBeaver, VirtualBox, Postman, WAVE.
-- **Familiar with:** GitLab, BurpSuite, Ubuntu, JMeter.
+- **Familiar with:** GIT, BurpSuite, Ubuntu, JMeter.
 
 ---
 ### Education
