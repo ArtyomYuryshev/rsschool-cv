@@ -33,18 +33,15 @@ Technical competence:
 **Senior Software Testing Engineer**<br>
 __EPAM__<br>
 _08.2021 - present_<br>
-- Involved in the testing projects of different levels of complexity with Scrum and Kanban
-methodologies.
-- Acted as an R&D curator for students after EPAM lab to grow them into a junior/middle
-specialist.
+- Involved in the testing projects of different levels of complexity with Scrum and Kanban methodologies.
+- Acted as an R&D curator for students after EPAM lab to grow them into a junior/middle specialist.
+- Conducting an assessment exam for a QA position in the company
 - Interviewed new engineers for the project.
-- Acted as an expert at assessment exams inside the company.
 
 **QA Engineer**<br>
 __a1qa__<br>
 _08/2018 - 07/2021_<br>
-- Taken part in testing activities like functional testing for web and mobile application, test
-documentation creation and quality reporting.
+- Taken part in testing activities like functional testing of web and mobile application, test documentation creation and quality reporting.
 - Onboarding and supervising new engineers on several projects.
 
 ---
