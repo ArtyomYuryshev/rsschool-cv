@@ -9,13 +9,23 @@
 
 ---
 ### Profile Summary
-- QA Engineer with more than 4 years of hands-on experience.
-- Worked in distributed Agile (Scrum, Kanban) teams as one QA engineer and in a group of QA engineers.
-- Was involved in testing of web applications for simple and complex enterprise solutions. In
-addition, have experience in testing in the domains like Betting, Game Development, Media and
-Entertainment, Building and Construction.
-- Have knowledge and work experience with SQL, JavaScript and Automated Testing in DSL (Vividus).
-- Hands-on experience with several task/bug tracking tools such as Jira, Confluence, Trello, TestRail, Zephyr, TestLink.
+- Senior Software Testing Engineer with 5 years in software testing
+- Good knowledge of SDLC and software testing process (follow Agile/Scrum methodology on almost all projects).
+- Strong analytical skills (root cause analysis, requirement analysis, finding dependencies etc.).
+- Expertise in test documentation creation (check lists, test cases, bugs reports, test plan, test strategy).
+- Advanced level in functional testing (new feature, web service, integration testing, regression).
+- Good communications skills and establishing good relationships with team members.
+- Skilled in developing knowledge transfer plans and conducting onboarding sessions for new members of a project, capable of effectively communicating information in a clear and accessible manner.
+- Experienced in SQL and Automated Testing in DSL (Vividus).
+- Basic skill in Automated testing in JS.
+- Expertise in conducting asmt and pre-asmt as expert for T2 and T3 levels.
+
+
+Technical competence:
+- Database Management Systems: DBeaver, pgAdmin.
+- Bug Tracking and Test Management Systems: Jira, Azure Boards, Rally, TestRail, TestLink, Zephyr.
+- Test Automation Tools: Vividus, WDIO (JS)
+- Tools: Postman, Fiddler, Charles, BurpSuite, VirtualBox, Docker.
 
 
 ---
