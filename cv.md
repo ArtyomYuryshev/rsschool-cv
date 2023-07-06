@@ -20,44 +20,34 @@
 - Basic skill in Automated testing in JS.
 - Expertise in conducting asmt and pre-asmt as expert for T2 and T3 levels.
 
-
-Technical competence:
+---
+### Technical competence:
 - Database Management Systems: DBeaver, pgAdmin.
 - Bug Tracking and Test Management Systems: Jira, Azure Boards, Rally, TestRail, TestLink, Zephyr.
 - Test Automation Tools: Vividus, WDIO (JS)
 - Tools: Postman, Fiddler, Charles, BurpSuite, VirtualBox, Docker.
-
 
 ---
 ### Experience
 **Senior Software Testing Engineer**<br>
 __EPAM__<br>
 _08.2021 - present_<br>
-- Involved in the testing projects of different levels of complexity with Scrum and Kanban methodologies.
-- Acted as an R&D curator for students after EPAM lab to grow them into a junior/middle specialist.
-- Conducting an assessment exam for a QA position in the company
-- Interviewed new engineers for the project.
+- Engaged in testing projects of varying complexity using Scrum and Kanban methodologies;
+- Implemented a solution for migrating project test cases from TestLink to TestRail, involving more than 20,000 cases;
+- Conducted assessment and pre-assessment sessions as an expert;
+- Conducted interviews with new engineers joining the project;
+- Served as an R&D curator for students transitioning from EPAM lab, guiding their growth into junior/middle specialists.
 
 **QA Engineer**<br>
 __a1qa__<br>
 _08/2018 - 07/2021_<br>
-- Taken part in testing activities like functional testing of web and mobile application, test documentation creation and quality reporting.
-- Onboarding and supervising new engineers on several projects.
+- Conducted functional tests for web and mobile applications, creating test documentation (test cases, checklists, test plans), and generating quality reports.
+- Conducted the onboarding process and provided supervision for new engineers across multiple projects.
 
 ---
 ### Languages
 - **English:** B1+
 - **Russian:** Native
-
----
-### Skills
-- **Work experience with:**
-    - Jira, Confluence, Zephyr, TestRail, TestLink, Trello
-    - Postman, Fiddler, Charles
-    - DBeaver, VirtualBox
-    - GIT, Vividus
-
-- **Familiar with:** WDIO, Docker, BurpSuite, Ubuntu.
 
 ---
 ### Education
