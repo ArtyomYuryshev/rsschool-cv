@@ -2,6 +2,12 @@ body {
   background-color: white;
 }
 
+.wrapper {
+  max-width: 1100px;
+  margin: auto;
+  padding: 10px;
+}
+
 h1 {
   color: black;
   text-align: left;
@@ -14,4 +20,8 @@ p {
 
 .bold {
   font-weight: 600;
+}
+
+.code_snippet {
+  background-color: #C0C0C0;
 }

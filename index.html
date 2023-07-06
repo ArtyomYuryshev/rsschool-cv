@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Artyom Yuryshev - QA Engineer</title>
-  <link rel="icon" href="#" />
+  <link rel="icon" href="assets/favicon.png" />
   <link href="style.css" rel="stylesheet" />
 </head>
 
@@ -45,7 +45,7 @@
           <h1>Hi, I&#39;m Artyom Yuryshev - QA Engineer</h1>
         </div>
         <div class="general-image">
-          <img class="about__img" src="./assets/admin.png" alt="Personal photo" />
+          <img class="about__img" src="./assets/admin.png" alt="personal photo" />
         </div>
       </section>
       <section class="contacts container">
@@ -85,7 +85,7 @@
       <section class="about container">
         <h2 id="about" class="title">Profile Summary</h2>
         <div class="about-me__description">
-          <p class="description__main">
+          <ul class="description__main">
             <li>
               Senior Software Testing Engineer with 5 years in software
               testing;
@@ -124,7 +124,7 @@
               Expertise in conducting assessment and pre-assessment sessions
               as expert for Middle and Senior levels.
             </li>
-          </p>
+          </ul>
         </div>
       </section>
       <section class="skills container">
@@ -199,12 +199,13 @@
       </section>
       <section class="languages container">
         <h2 id="lang" class="title">Languages</h2>
-        <dl class="languages__list">
-          <dt class="languages__title">English</dt>
-          <dd class="languages__level">B1+</dd>
-          <dt class="languages__title">Russian</dt>
-          <dd class="languages__level">Native</dd>
-        </dl>
+        <ul class="languages__list">
+          <li class="languages"><span class="bold">English:</span> B1+</li>
+          <li class="languages"><span class="bold">Russian:</span> Native</li>
+          <li class="languages">
+            <span class="bold">Belarussian:</span> Native
+          </li>
+        </ul>
       </section>
       <section class="education container">
         <h2 id="education" class="title">Education</h2>
@@ -243,7 +244,43 @@
           </li>
         </ul>
       </section>
+      <section class="code container">
+        <h2 id="code" class="title">Code example</h2>
+        <p class="code_snippet">
+          <code>
+              //Create a function(s) that fulfills array with 10 random integer
+              values and returns a multiply of 3 greatest values.<br /><br />
+
+              function randomIntMultiply() {<br />
+              const array = Array.from({ length: 10 }, () =>
+              Math.floor(Math.random() * 100));<br />
+              const maxMultiply = Math.max(...array) * 3;<br />
+              return (maxMultiply);<br />
+              }<br /><br />
+
+              console.log(randomIntMultiply());<br /><br />
+            </code>
+        </p>
+      </section>
     </main>
+
+    <footer class="page-footer">
+      <div class="page-footer__inner">
+        <div class="page-footer__copyright">
+          <p>© 2023 by AY</p>
+        </div>
+        <ul class="page-footer__links">
+          <li class="links__item">
+            <a href="https://github.com/ArtyomYuryshev" class="contact-links__link" target="_blank">Github</a>
+          </li>
+          <li class="links__item">
+            <a href="https://rs.school/js/" class="contact-links__link" target="_blank">
+              <img class="rs__img" src="./assets/rs.svg" alt="rs img" width="80" height="30" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </div>
 </body>
 
